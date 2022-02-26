@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Swagger TTF';
+    font-weight: normal;
+    font-style: normal;
+    src: local("Swagger TTF"), url(./SDSwaggerTTF.woff);
+  }
+
+  @font-face {
+    font-family: 'Swagger TTF Bold';
+    font-weight: bold;
+    font-style: normal;
+    src: local("Swagger TTF"), url(./SDSwaggerTTF_bold.woff);
+  }
